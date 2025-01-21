@@ -1393,12 +1393,10 @@ Omejitve:
 - 
 ### Vaje zanke 
 
-- [Bob] (https://www.codewars.com/kata/5751fef5dcc1079ac5001cff) 
 - [Min Max](https://www.codewars.com/kata/554b4ac871d6813a03000035)  (prvo reši na dolg način, potem pa z min max funckijo)
 - [Without min max](https://www.codewars.com/kata/576b93db1129fcf2200001e6)
 - [Double every other](https://www.codewars.com/kata/5809c661f15835266900010a)
 - [Friends](https://www.codewars.com/kata/55b42574ff091733d900002f)
-- [Cat in hat](https://www.codewars.com/kata/57b5907920b104772c00002a)
 - [Count pos sum neg](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) (poskusi z 2 list comprehantion-a)
 - [Range](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
 - [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) (enumerate?)
@@ -1406,7 +1404,7 @@ Omejitve:
 - [Flowers](https://www.codewars.com/kata/606efc6a9409580033837dfb)
 - [Sheeps](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) (online)
 - [Double char](https://www.codewars.com/kata/56b1f01c247c01db92000076) (nekam znano)
-- 
+
 
 ## Slovarji
 
